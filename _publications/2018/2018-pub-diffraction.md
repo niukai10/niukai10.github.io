@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 # pub_pre:        "Submitted to "
 #pub_post:       ' <span class="badge badge-pill badge-publication badge-success">Distinguished Paper Award</span>'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">IMUWT/UbiComp&#39;18</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">IMWUT/UbiComp&#39;18</span>'
 pub_date:       "2018"
 
 # abstract: >-
