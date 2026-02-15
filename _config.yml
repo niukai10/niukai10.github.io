@@ -37,6 +37,6 @@ plugins:
 collections:
   - publications
   - news
-  - blog
-  - cv
+#  - blog
+#  - cv
 #  - showcase
